@@ -16,7 +16,15 @@ Before running the code, make sure you have the following libraries installed:
 * graphviz (for decision tree visualization)
 
 ## Dataset
-The data used was found online, you can dowload the csv file int the repository or in the original location at:
+The data used contains aggregated call information with various fields:
+* Call duration during various times of the day
+* Number of calls during various times of the day
+* How long is/was the user active
+* Number of voice messages sent
+* Number of Customer service calls
+* Did the user Churn
+
+Data was found online, you can dowload the csv file in the repository or in the original location at:
 https://github.com/jamesrawlins1000/Telecom-CDR-Dataset-/blob/master/Call%20Details-Data.csv
 
 ### The code will perform these following tasks
